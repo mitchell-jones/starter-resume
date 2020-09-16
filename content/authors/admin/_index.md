@@ -45,12 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: fas fa-chart-area
+  icon_pack: fas
+  link: https://public.tableau.com/profile/mitchell.jones#!/
 - icon: fab fa-linkedin-in
   icon_pack: fab
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/mitchelljones49/
 - icon: github
   icon_pack: fab
   link: https://github.com/mitchell-jones
