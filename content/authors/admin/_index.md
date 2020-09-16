@@ -48,12 +48,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: fa-linkedin
+- icon: fab fa-linkedin-in
   icon_pack: fab
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mitchell-jones
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Mitchell! I'm currently a Business Analytics major at the University of North Carolina at Charlotte. Once Spring of 2021 arrives, I'll be dual enrolled as an undergraduate student, and a masters student in my school's Data Science and Business Analytics program.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In addition to my undergraduate Business coursework, I currently work as a Data Analyst Intern for Visual Risk IQ and serve as the President of the Business Honors Program at UNC Charlotte. 
+
+I'm passionate about leveraging Data Science techniques to tell stories with data and drive business decisions. I'm interested in Data Science internships for the summer of 2021 - let's connect!
